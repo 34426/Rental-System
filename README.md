@@ -10,11 +10,11 @@
 
 运行环境:idea或eclipse 数据库:mysql
 
-前端技术：Vue.js、ElementUI、HTML、CSS、JS、Jquery
+前端技术：Vue.js、ElementUI、HTML、CSS
 
 后端技术：SpringBoot、Mybatis
 
-角色:用户 商家 管理员
+角色:用户 房东 管理员
 
 管理员：登录、个人中心、用户管理、房东管理、信息审批管理、房源信息管理、订单信息管理、轮播图管理
 
@@ -38,7 +38,7 @@
 
 ![img_5.png](imgs/img_5.png)
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3808981644  或者加微信 ：qszard26
+### 9.9￥ 获取完整源码+sql，附赠10000字论文参考，需要加Q：3808981644  或者加微信 ：qszard26
 ### 有问题，或者需要协助调试运行项目的也可联系
 
 ![img_6.png](imgs/img_6.png)
